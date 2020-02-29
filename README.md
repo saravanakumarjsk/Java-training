@@ -1,2 +1,2 @@
-# Java-3edge
+# Java
 Collections of all java programs
